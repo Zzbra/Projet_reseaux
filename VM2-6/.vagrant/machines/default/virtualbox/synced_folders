@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"owner":"m1reseaux","guestpath":"/vagrant","hostpath":"/home/etienne/reseaux/tp3/soluce2/VM2-6","disabled":false,"__vagrantfile":true},"/mnt/partage":{"create":true,"owner":"m1reseaux","guestpath":"/mnt/partage","hostpath":"/home/etienne/reseaux/tp3/soluce2/partage","disabled":false,"__vagrantfile":true}}}
