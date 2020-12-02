@@ -2,7 +2,7 @@ Projet Réseaux M1
 Barry William Roux Etienne.
 
 Le projet est fonctionnel, il suffit d'appeler "salt-call state.apply" sur
-les répertoires /vagrant des différentes VMs et appeler ./tunnel64d confVMx sur les VM1 et VM3 pour que tout fonctionne.
+les répertoires /vagrant des différentes VMs et appeler ./tunnel64d confVMx.txt sur les VM1 et VM3 pour que tout fonctionne.
 
 Veuillez noter que nous n'avons pas réussi à installer iperf3 via la configuration salt. Il faut donc exécuter cette ligne de code pour l'obtenir:
 
